@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Duvan-Alejandro-Montoya-Rivas and 21 years old so I live in Bogotá- Colombia.
-- 👀 I’m interested in search work with a company of delovep frond and back, I am a student Ing system.
+- 👀 I’m interested in search work with a company of delovep frond and back, I am a student Eng system.
 - 🌱 I’m currently learning python and R.
 - 📫 How to reach me dubis310@gmail.com.
 
